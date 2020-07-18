@@ -4,7 +4,7 @@
   <img align="left" alt=" Discord" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <br />
-
+<br />
 Hi, I am zn, a programming hobbyist!
 
 - 🔭 I’m currently working on homework :/
