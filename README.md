@@ -1,4 +1,8 @@
 ### Hi there, I am [zn!](https://recreationx.github.io/) 👋
+<br/>
+<a href="https://discord.gg/N4TNrud">
+  <img align="left" alt=" Discord" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
 <br />
 
 Hi, I am zn, a programming hobbyist!
@@ -10,4 +14,4 @@ Hi, I am zn, a programming hobbyist!
 - 📫 How to reach me: zn#9215
 - ⚡ Fun fact: I need more sleep
 
-![recreationx's github stats](https://github-readme-stats.vercel.app/api?username=recreationx)
+![recreationx's github stats](https://github-readme-stats.vercel.app/api?username=recreationx&show_icons=true)
