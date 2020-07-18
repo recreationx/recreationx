@@ -1,18 +1,13 @@
-### Hi there 👋
+### Hi there, I am [zn!](https://recreationx.github.io/) 👋
+<br />
 
-<!--
-**recreationx/recreationx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am zn, a programming hobbyist!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on homework :/
+- 🌱 I’m currently learning HTML and CSS.
+- 👯 I’m looking to collaborate on literally anything.
+- 💬 Ask me about anything on my [discord](https://discord.gg/N4TNrud)
+- 📫 How to reach me: zn#9215
+- ⚡ Fun fact: I need more sleep
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=recreationx)](https://github.com/anuraghazra/github-readme-stats)
+![recreationx's github stats](https://github-readme-stats.vercel.app/api?username=recreationx)
