@@ -7,7 +7,7 @@
 </a>
 
 <br />
-  <img align="right" height="270px" width="480px" alt="GIF" src="https://media3.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif" />
+  <img align="right" height="220px" width="400px" alt="GIF" src="https://media3.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif" />
 <br />
 
 Hi, I am zn, a programming hobbyist!
