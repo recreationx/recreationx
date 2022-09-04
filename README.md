@@ -1,15 +1,13 @@
-### Hi there, I am [zn!](https://recreationx.github.io/) 👋
+<h1 align="center">Hi 👋, I'm zn</h1>
+<h3 align="center">A programming hobbyist</h3>
 
-<br/>
+- 📫 How to reach me **zn#4513**
 
-<a href="https://discord.gg/N4TNrud">
-  <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<br />
-  <img align="right" height="220px" width="400px" alt="GIF" src="https://media3.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif" />
-<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=recreationx&show_icons=true&locale=en&layout=compact" alt="recreationx" /></p>
 
-Hi, I am zn, a programming hobbyist!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=recreationx&show_icons=true&locale=en" alt="recreationx" /></p>
 
-- i have nothing to do so hmu on discord at zn#9215 for projects
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=recreationx&" alt="recreationx" /></p>
